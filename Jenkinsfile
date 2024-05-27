@@ -3,7 +3,7 @@ node {
     def application = "devopsexample"
     
     //Its mandatory to change the Docker Hub Account ID after this Repo is forked by an other person
-    def dockerhubaccountid = "sohelkhan2001"
+    def dockerhubaccountid = "dockersv2"
 	
     // reference to maven
     // ** NOTE: This 'maven-3.5.2' Maven tool must be configured in the Jenkins Global Configuration.   
